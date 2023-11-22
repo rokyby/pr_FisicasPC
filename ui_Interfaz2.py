@@ -68,7 +68,7 @@ class Ui_MainWindow(object):
         self.horizontalLayout_7.setContentsMargins(0, 0, 0, 0)
         self.label_2 = QLabel(self.frame_5)
         self.label_2.setObjectName(u"label_2")
-        self.label_2.setMaximumSize(QSize(16777215, 30))
+        self.label_2.setMaximumSize(QSize(130, 30))
 
         self.horizontalLayout_7.addWidget(self.label_2, 0, Qt.AlignVCenter)
 
